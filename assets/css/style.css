@@ -10,15 +10,6 @@
 # General
 --------------------------------------------------------------*/
 
-loghi {
-  width: 400px;
-}
-
-logo {
-  position: absolute;
-  margin-right: 3%;
-  width: 150px;
-}
 
 body {
   font-family: "Open Sans", sans-serif;
