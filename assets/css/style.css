@@ -15,8 +15,9 @@ loghi {
 }
 
 logo {
+  position: absolute;
   margin-right: 3%;
-  width: 33%;
+  width: 150px;
 }
 
 body {
