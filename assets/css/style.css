@@ -81,7 +81,7 @@ h6 {
   z-index: 9997;
   transition: all 0.5s;
   padding: 0 15px;
-  background: #040b14;
+  background: #1a78ec;
   overflow-y: auto;
 }
 
@@ -89,7 +89,7 @@ h6 {
   margin: 15px auto;
   display: block;
   width: 120px;
-  border: 8px solid #2c2f3f;
+  border: 8px solid #000;
 }
 
 #header .profile h1 {
@@ -192,7 +192,7 @@ h6 {
 .nav-menu .active i,
 .nav-menu .active:focus i,
 .nav-menu li:hover>a i {
-  color: #149ddd;
+  color: #4e2de1;
 }
 
 /* Mobile Navigation */
@@ -257,21 +257,21 @@ h6 {
   font-size: 64px;
   font-weight: 700;
   line-height: 56px;
-  color: #fff;
+  color: #FFF;
 }
 
 #hero p {
-  color: #fff;
+  color: #FFF;
   margin-bottom: 50px;
   font-size: 26px;
   font-family: "Poppins", sans-serif;
 }
 
 #hero p span {
-  color: #fff;
+  color: #4a2de1;
   padding-bottom: 4px;
   letter-spacing: 1px;
-  border-bottom: 3px solid #149ddd;
+  border-bottom: 3px solid #fac20c;
 }
 
 @media (min-width: 1024px) {
@@ -315,7 +315,7 @@ section {
   margin-bottom: 20px;
   padding-bottom: 20px;
   position: relative;
-  color: #173b6c;
+  color: #4e2de1;
 }
 
 .section-title h2::after {
@@ -324,7 +324,7 @@ section {
   display: block;
   width: 50px;
   height: 3px;
-  background: #149ddd;
+  background: #fac20c;
   bottom: 0;
   left: 0;
 }
@@ -916,7 +916,7 @@ section {
 .contact .info .email:hover i,
 .contact .info .address:hover i,
 .contact .info .phone:hover i {
-  background: #149ddd;
+  background: #4e2de1;
   color: #fff;
 }
 
