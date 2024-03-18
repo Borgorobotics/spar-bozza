@@ -252,8 +252,8 @@ h6 {
 #hero .hero-container {
   position: relative;
   z-index: 2;
-  min-width: 95%;
-  padding: 5%;
+  min-width: 300px;
+  <!-- padding: 5 -->
 }
 
 #hero h1 {
