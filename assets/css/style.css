@@ -253,7 +253,7 @@ h6 {
   position: relative;
   z-index: 2;
   min-width: 300px;
-  <!-- padding: 5 -->
+  padding: 5;
 }
 
 #hero h1 {
@@ -382,6 +382,12 @@ section {
 
 .about .content p:last-child {
   margin-bottom: 0;
+}
+
+.about .gruppo {
+  max-width: 40%;
+  display: block;
+  margin: 0 auto;
 }
 
 /*--------------------------------------------------------------
